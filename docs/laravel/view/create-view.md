@@ -7,4 +7,5 @@ sidebar_position: 1
 php artisan make:view *Nom de la vue*
 ```
 
-Test
+Nicolas, Développeur Backend Pro et pro Laravel,
+Plus beau gosse de SLAM
