@@ -15,5 +15,4 @@ git config --global user.email "EMAIL"
 ```shell
 git config --global user.name USERNAME
 ```
-
-Nico
+Nico,
