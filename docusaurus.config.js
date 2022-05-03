@@ -41,7 +41,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "",
+        title: "titre",
         logo: {
           alt: "SparcoonDocs Logo",
           src: "img/logo.png",
