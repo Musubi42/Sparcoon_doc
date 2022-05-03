@@ -35,5 +35,5 @@ jobs:
       #  run: pm2 restart test
 
       # Mv la command a permis de la mettre à jour
-      - name: Move the Build to /var/www/musubi
+      - name: Move the Build to /var/www/sarcoon_doc
         run: bash /home/debian/.local/bin/CD_doc_sparcoon.sh
