@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Création d'une vue avec PHPArtisan
 ```php
-php artisan make:model *Nom du model*
+php artisan make:model *Nom du model* -a -r
 ```
 
 # Guide | Bloc-notes pour nico
