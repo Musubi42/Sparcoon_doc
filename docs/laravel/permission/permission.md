@@ -2,11 +2,19 @@
 sidebar_position: 1
 ---
 
-# Ajout d'une view
+# Gestion de la permission d'accès à la vue
 
-## Créer la permission d'accès à la view
+## Créer la permission d'accès à la vue
 
-Dans la fonction <code>createPermissions</code> du controller `PermissionGestureController.php`
+Dans le controller `app/Http/Controllers/PermissionGestureController.php`, dans la fonction <code>createPermissions</code>, ajouter à la suite des permissions votre permission
+
+```php
+Permission::create(['name'=>'`nom_de_la_vue`]);
+```
+
+dzdz
+
+
 ````php
 php artisan make:controller *Nom du controlleur*
 ```
